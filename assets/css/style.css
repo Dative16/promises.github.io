@@ -245,8 +245,8 @@ body { background: var(--white); }
  }
 
 .header-top .logo img { 
-  max-width: 100px; 
-  height:40px;
+  max-width: 150px; 
+  height:70px;
   border-radius: 5px
 }
 
